@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @allenthemartian
+- 👋 Hi, I’m Allen Frederick
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Scikit-Learn, Keras & TensorFlow
 - 💞️ I’m looking to collaborate on Computer Vision projects
